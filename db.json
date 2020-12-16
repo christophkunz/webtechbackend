@@ -1,12 +1,52 @@
 {
-  "posts": [
+  "seats": [
     {
       "id": 1,
-      "title": "hello"
+      "seat": "a1"
+    },
+    {
+      "id": 2,
+      "seat": "a2"
+    },
+    {
+      "id": 3,
+      "seat": "a3"
+    },
+    {
+      "id": 4,
+      "seat": "b1"
+    },
+    {
+      "id": 5,
+      "seat": "b2"
     },
     {
       "id": 6,
-      "title": "hello"
+      "seat": "b3"
+    },
+    {
+      "id": 7,
+      "seat": "c1"
+    },
+    {
+      "id": 8,
+      "seat": "c2"
+    },
+    {
+      "id": 9,
+      "seat": "c3"
+    },
+    {
+      "id": 10,
+      "seat": "d1"
+    },
+    {
+      "id": 11,
+      "seat": "d2"
+    },
+    {
+      "id": 12,
+      "seat": "d3"
     }
   ],
   "profile": {
