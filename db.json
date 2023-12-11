@@ -91,7 +91,7 @@
     "seat": "Reihe5-Platz6"
   }
   ],
-  "availableSeats": {
+  "availableColumns": {
       "seats": 6
   },
   "profile": {
