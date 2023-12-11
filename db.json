@@ -91,6 +91,9 @@
     "seat": "Reihe5-Platz6"
   }
   ],
+  "availableSeats": {
+      "seats": 6
+  },
   "profile": {
     "name": "typicode"
   }
