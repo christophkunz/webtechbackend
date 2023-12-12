@@ -92,7 +92,7 @@
   }
   ],
   "availableColumns": {
-      "seats": 6
+      "columns": 6
   },
   "profile": {
     "name": "typicode"
